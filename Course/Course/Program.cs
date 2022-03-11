@@ -10,11 +10,10 @@
             //listarNumerosPares(numeros);
 
             //Listar Numeros Pares usando Linq
-            numeros.Where(x => x % 2 == 0).Select(x => x * 1);
-            foreach (int num in numeros)
-            {
-                Console.WriteLine(num);
-            }
+            int max = numeros.Max(n => n);
+      
+            Console.WriteLine(max);
+          
             BankAccount bankAccount_Yuri = new BankAccount("Yuri", 0001, 112233);
             BankAccount bankAccount_Mylena = new BankAccount("Mylena", 0002, 223344);
 
