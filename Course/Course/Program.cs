@@ -6,8 +6,15 @@
         {
             //int result = somar(10, 55);
             //Console.WriteLine(result);
-            //int[] numeros = {1,2,3,4,5,22,54,32,12,89,54};
+            int[] numeros = {1,2,3,4,5,22,54,32,12,89,54};
             //listarNumerosPares(numeros);
+
+            //Listar Numeros Pares usando Linq
+            numeros.Where(x => x % 2 == 0).Select(x => x * 1);
+            foreach (int num in numeros)
+            {
+                Console.WriteLine(num);
+            }
             BankAccount bankAccount_Yuri = new BankAccount("Yuri", 0001, 112233);
             BankAccount bankAccount_Mylena = new BankAccount("Mylena", 0002, 223344);
 
@@ -30,7 +37,7 @@
         }
 
         public static void listarNumerosPares(int[] numeros)
-        {
+        {  
             foreach (int numero in numeros)
             {
                 if ((numero % 2) == 0)
