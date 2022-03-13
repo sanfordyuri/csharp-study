@@ -1,0 +1,15 @@
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\bin\Debug\net6.0\ProductosSuperMarket.exe
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\bin\Debug\net6.0\ProductosSuperMarket.deps.json
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\bin\Debug\net6.0\ProductosSuperMarket.runtimeconfig.json
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\bin\Debug\net6.0\ProductosSuperMarket.dll
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\bin\Debug\net6.0\ProductosSuperMarket.pdb
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\obj\Debug\net6.0\ProductosSuperMarket.csproj.AssemblyReference.cache
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\obj\Debug\net6.0\ProductosSuperMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\obj\Debug\net6.0\ProductosSuperMarket.AssemblyInfoInputs.cache
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\obj\Debug\net6.0\ProductosSuperMarket.AssemblyInfo.cs
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\obj\Debug\net6.0\ProductosSuperMarket.csproj.CoreCompileInputs.cache
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\obj\Debug\net6.0\ProductosSuperMarket.dll
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\obj\Debug\net6.0\refint\ProductosSuperMarket.dll
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\obj\Debug\net6.0\ProductosSuperMarket.pdb
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\obj\Debug\net6.0\ProductosSuperMarket.genruntimeconfig.cache
+D:\C#-Rep\ProductosSuperMarket\ProductosSuperMarket\obj\Debug\net6.0\ref\ProductosSuperMarket.dll
